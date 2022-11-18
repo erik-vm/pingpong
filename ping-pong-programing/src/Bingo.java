@@ -7,7 +7,6 @@ public class Bingo {
 
     Random random = new Random();
 
-    List<Integer> pickedNumbers = new ArrayList<>();
     List<Integer> bingoCard = new ArrayList<>();
     List<Integer> bColumn = new ArrayList<>();
     List<Integer> iColumn = new ArrayList<>();
@@ -16,9 +15,16 @@ public class Bingo {
     List<Integer> oColumn = new ArrayList<>();
 
     public void playBingo(List<Integer> bingoCard) {
-      for (int i = 0; i < 75; i++){
-          int nextNumber = random.nextInt(1,75);
-      }
+        int[] availableNumber = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+                31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+                46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+                61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75};
+
+        List<Integer> pickedNumbers = new ArrayList<>();
+
+
+
     }
 
 
@@ -42,12 +48,12 @@ public class Bingo {
 
     private void columnB() {
         int[] B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
-       columnNumbersPicker(B, bColumn);
+        columnNumbersPicker(B, bColumn);
     }
 
     private void columnI() {
         int[] I = {16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30};
-      columnNumbersPicker(I, iColumn);
+        columnNumbersPicker(I, iColumn);
     }
 
     private void columnN() {
