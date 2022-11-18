@@ -23,8 +23,19 @@ public class Bingo {
 
         List<Integer> pickedNumbers = new ArrayList<>();
 
+            int nextNr = 0;
 
+            while (!bingoCard.isEmpty()){
+                nextNr = availableNumber[random.nextInt(availableNumber.length)];
+                if (!pickedNumbers.contains(nextNr)){
+                    pickedNumbers.add(nextNr);
+                }
+                if (bingoCard.contains(nextNr)){
+                    bingoCard.remove(nextNr);
+                }
 
+            }
+        System.out.println("BINGO!");
     }
 
 
