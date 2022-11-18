@@ -1,0 +1,15 @@
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\bin\Debug\net6.0\Berlin Clock Kata.exe
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\bin\Debug\net6.0\Berlin Clock Kata.deps.json
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\bin\Debug\net6.0\Berlin Clock Kata.runtimeconfig.json
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\bin\Debug\net6.0\Berlin Clock Kata.dll
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\bin\Debug\net6.0\Berlin Clock Kata.pdb
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.csproj.AssemblyReference.cache
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.AssemblyInfoInputs.cache
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.AssemblyInfo.cs
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.csproj.CoreCompileInputs.cache
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.dll
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\refint\Berlin Clock Kata.dll
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.pdb
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\Berlin Clock Kata.genruntimeconfig.cache
+C:\Users\Luisfilipe.Corino\source\repos\pingpong\Berlin Clock Kata\Berlin Clock Kata\obj\Debug\net6.0\ref\Berlin Clock Kata.dll
